@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\dxlib\\課題20260926_goharamahiro\\map.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\dxlib\\課題20260926_goharamahiro\\collision.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

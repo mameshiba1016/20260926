@@ -1,0 +1,26 @@
+﻿  Collision.cpp
+  Main.cpp
+C:\Dxlib\課題20260926_GoharaMahiro\Main.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Dxlib\課題20260926_GoharaMahiro\Config.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Main.cpp' をコンパイルしています)
+  
+C:\Dxlib\課題20260926_GoharaMahiro\Player.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Main.cpp' をコンパイルしています)
+  
+  Map.cpp
+C:\Dxlib\課題20260926_GoharaMahiro\Config.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Map.cpp' をコンパイルしています)
+  
+C:\Dxlib\課題20260926_GoharaMahiro\Map.cpp(78,60): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Dxlib\課題20260926_GoharaMahiro\Map.cpp(78,34): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Player.cpp
+C:\Dxlib\課題20260926_GoharaMahiro\Player.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Dxlib\課題20260926_GoharaMahiro\Config.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Dxlib\課題20260926_GoharaMahiro\Player.cpp(206,15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Dxlib\課題20260926_GoharaMahiro\Player.cpp(208,15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  Dxlib_Basic_Seting.vcxproj -> C:\Dxlib\課題20260926_GoharaMahiro\x64\Debug\Dxlib_Basic_Seting.exe

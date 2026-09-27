@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Dxlib_Ba.7d1113f2\\x64\\Debug\\Config.obj",
+            "outputs": [
+                "Dxlib_Ba.7d1113f2\\x64\\Debug\\Config.h.obj.dt.module.json",
+                "Dxlib_Ba.7d1113f2\\x64\\Debug\\Config.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
